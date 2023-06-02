@@ -12,7 +12,7 @@ const Description = () => {
             <p className="home__des">
             Innovative Frontend Developer with 1+ years experience building websites. Proficient in HTML, CSS , Javascirpt, plus modern libraries and frameworks (ReactJs) . Passionate about usability and possess working knowledge of Adobe Photoshop, Figma.
             </p>
-            <a href="contact" className="button button--flex">
+            <a href="#contact" className="button button--flex">
                 Say Hello
                 <svg
                   className="button__icon"
